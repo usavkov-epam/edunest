@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@edunest/infrastructure": ["apps/infrastructure/src/index.ts"],
       "@edunest/shared": ["libs/shared/src/index.ts"]
     }
   },
